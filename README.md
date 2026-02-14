@@ -29,10 +29,8 @@ This project demonstrates how to integrate and consume a custom API using JavaSc
 ## 🛠️ Technologies Used
 
 - HTML5  
-- CSS3  
 - JavaScript (Fetch API)  
 
 ---
 
-## 📂 Project Structure
 
