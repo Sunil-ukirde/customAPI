@@ -17,7 +17,7 @@ async function callAPI() {
       htmlString += `
       <tr>
       <td> ${post.userId}</td>
-      <td> ${post.Id}</td>
+      <td> ${post.id}</td>
        <td> ${post.title}</td>
        <td> ${post.body}</td>
       </tr>
@@ -30,3 +30,4 @@ async function callAPI() {
     console.log(error);
   }
 }
+
